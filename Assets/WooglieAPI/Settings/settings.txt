@@ -1,0 +1,1 @@
+<settings><promoImagesIcon>Assets/Standard Assets/Terrain Assets/Terrain Textures/RagTimeLOGO Small.jpg</promoImagesIcon><promoImagesFeatured>Assets/Standard Assets/Terrain Assets/Terrain Textures/RagTimeLOGO Small.jpg</promoImagesFeatured></settings>
